@@ -75,3 +75,6 @@ crontab -e
 ```bash
 0 2 * * * /path/to/backup_script.sh
 ```
+
+![Screenshot 2023-09-11 at 11 56 25](https://github.com/otuzi/backup/assets/61628386/6e866211-3944-4525-b1a8-cdbf667289a2)
+
